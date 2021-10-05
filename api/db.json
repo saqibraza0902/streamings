@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "Title": "Programmatic stream",
+      "Description": "It is not a programmatic stream",
+      "userId": "109575688895403607548",
+      "id": 2
+    },
+    {
+      "Title": "New stream",
+      "Description": "Its a new stream",
+      "userId": "109575688895403607548",
+      "id": 3
+    },
+    {
+      "Title": "Saqib",
+      "Description": "Its saqib's stream",
+      "userId": "109575688895403607548",
+      "id": 4
+    }
+  ]
+}
